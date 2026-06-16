@@ -12,6 +12,8 @@ public class Program
         // Learn more about configuring OpenAPI at https://aka.ms/aspnet/openapi
 
         var app = builder.Build();
+        app.UseStaticFiles();
+        app.UseDefaultFiles();
 
         app.UseHttpsRedirection();
 
