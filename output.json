@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Die Hard",
+        "genre": "Action",
+        "description": "John McClane fights his way through a sky scraper when he should be at home celebrating Christmas",
+        "director": "John McTiernan",
+        "cast": [
+            "Bruce Willis",
+            "Alan Rickman",
+            "Bonnie Bedelia",
+            "Reginald VelJohnson",
+            "William Atherton"
+        ],
+        "runtime": 132,
+        "rating": "R",
+        "releaseYear": 1988,
+        "writers": [
+            "Jeb Stuart",
+            "Steven E. de Souza"
+        ]
+    }
+]
