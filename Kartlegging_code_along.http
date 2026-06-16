@@ -1,0 +1,6 @@
+@Kartlegging_code_along_HostAddress = http://localhost:5010
+
+GET {{Kartlegging_code_along_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
